@@ -16,9 +16,8 @@
 
 💬 **Ask me about:** Anything WordPress! Whether you're curious about theme development, custom plugin solutions, or optimizing your WordPress site, I'm here to help.
 
-📫 **How to reach me:** You can connect with me here on GitHub or reach out via [Your Email Address]. I'm always open to collaborating on projects or sharing insights into WordPress development.
+📫 **How to reach me:** You can connect with me here on GitHub or reach out via felixkebaya@gmail.com or info@kebayah.com. I'm always open to collaborating on projects or sharing insights into WordPress development.
 
 Let's build something amazing together!
 
-![image](https://github.com/Matara-Felix/Matara-Felix/assets/50196648/2b3da12c-f7fa-427b-adcc-b973e8bcd44c)
 
