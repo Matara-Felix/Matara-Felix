@@ -1,3 +1,4 @@
+![image](https://github.com/Matara-Felix/Matara-Felix/assets/50196648/ef440b80-7bf4-45dc-a01a-d39d7ba661fb)
 
 👋 Hello! I'm Felix Kebaya, a passionate WordPress developer with a knack for creating dynamic and user-friendly websites. With 5 years of experience in the field, I specialize in developing custom themes, plugins, and integrating APIs to enhance WordPress functionalities. My goal is to build responsive, SEO-friendly websites that deliver a seamless user experience across all devices.
 
