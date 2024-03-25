@@ -20,5 +20,6 @@
 
 Let's build something amazing together! 
 
-
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+
+![kyubey](https://github.com/Matara-Felix/Matara-Felix/assets/50196648/d89d74d4-ef33-433e-a0e2-5c96b2972421)
