@@ -23,7 +23,7 @@
 
 </div>
 
-```
+```ascii
 ┌─────────────────────────────────────────────────────────┐
 │ AI-POWERED APPLICATIONS                                 │
 │ → Claude API, GPT-4, Open-Source Models                 │
