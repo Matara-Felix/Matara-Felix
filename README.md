@@ -19,7 +19,7 @@
 
 ---
 
-### ⚡ WHAT I BUILD
+###  WHAT I BUILD
 
 </div>
 
@@ -115,7 +115,7 @@
 **Published Twice Weekly** — Technical breakdowns for engineers and CTOs
 
 ```
-📝 Recent Articles:
+ Recent Articles:
    → Harness Engineering: The Orchestration Layer (Tsinghua/Stanford)
    → Context Engineering vs Prompt Engineering
    → RAG vs MCP Architecture: When to Use Each
