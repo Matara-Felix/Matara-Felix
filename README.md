@@ -88,9 +88,6 @@
 
 ###  GITHUB METRICS
 
-![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matara-Felix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matara-Felix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matara-Felix&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
