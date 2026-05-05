@@ -8,7 +8,7 @@ Hello! I'm Felix Kebaya Matara, a passionate WordPress developer with a knack fo
 - **Performance Optimization:** Analyzing and optimizing website speed, ensuring faster loading times and improved Google PageSpeed Insights scores.
 - **Security Enhancement:** Implementing best security practices to safeguard websites from potential threats and ensuring regular updates.
 
-🛠 **Technologies I Work With:**
+**Technologies I Work With:**
 - **Languages:** PHP, JavaScript (including jQuery), HTML5, CSS3, SQL
 - **Tools & Frameworks:** WordPress, WooCommerce, Elementor, ACF (Advanced Custom Fields), REST API, Git, Bootstrap, Sass
 
