@@ -1,7 +1,6 @@
 
 Hello! I'm Felix Kebaya Matara, a passionate WordPress developer with a knack for creating dynamic and user-friendly websites. With 5 years of experience in the field, I specialize in developing custom themes, plugins, and integrating APIs to enhance WordPress functionalities. My goal is to build responsive, SEO-friendly websites that deliver a seamless user experience across all devices.
 
-
 **What I Do:**
 - **Custom Theme Development:** Crafting unique themes from scratch to match specific design requirements, ensuring cross-browser compatibility and mobile responsiveness.
 - **Plugin Development:** Developing custom plugins to extend WordPress capabilities, ranging from simple functionality tweaks to complex feature additions.
