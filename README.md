@@ -27,7 +27,7 @@
 ```
 ┌─────────────────────────────────────────────────────────┐
 │ AI-POWERED APPLICATIONS                                 │
-│ → Claude API, OpenAI, Open-Source Models                 │
+│ → Claude API, OpenAI, Open-Source Models                │
 │ → Production systems handling real traffic              │
 │                                                         │
 │ INTELLIGENT AUTOMATION                                  │
